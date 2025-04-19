@@ -1,0 +1,5 @@
+git init
+git add api_backup.tar.gz
+git commit -m "API full package backup"
+git remote add origin your-repo-url
+git push origin main
